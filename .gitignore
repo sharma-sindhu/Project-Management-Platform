@@ -1,0 +1,2 @@
+# Local H2 database files (see application.yml jdbc:h2:file:./data/pmplatform)
+data/
